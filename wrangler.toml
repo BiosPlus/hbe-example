@@ -1,4 +1,4 @@
-name = "hugo-blog-extended"
+name = "hbe-example"
 pages_build_output_dir = "./public"
 
 [vars]
