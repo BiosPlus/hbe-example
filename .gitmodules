@@ -1,0 +1,3 @@
+[submodule "themes/hugo-blog-extended"]
+	path = themes/hugo-blog-extended
+	url = https://github.com/BiosPlus/hugo-blog-extended.git
